@@ -1,4 +1,3 @@
-
 // EDIT "get_val" AT YOUR OWN RISK!
 var get_val = function (sel) {
   value = $(sel).val();
